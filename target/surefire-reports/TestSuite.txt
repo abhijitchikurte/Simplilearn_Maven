@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.845 s <<< FAILURE! - in TestSuite
+test.Logintest1.logintest2  Time elapsed: 4.101 s  <<< FAILURE!
+java.lang.AssertionError: expected [The email or password you have entered is invalid] but found [The email or password you have entered is invalid.]
+	at test.Logintest1.logintest2(Logintest1.java:46)
+
